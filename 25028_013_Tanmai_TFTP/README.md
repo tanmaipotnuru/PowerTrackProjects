@@ -10,3 +10,6 @@ A C-based TFTP (Trivial File Transfer Protocol) application that enables file tr
 - Source Code (.c and .h files)
 - Project Report
 - Output Screenshot
+
+## status
+- Verification pending
