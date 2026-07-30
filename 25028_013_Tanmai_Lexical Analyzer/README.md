@@ -19,3 +19,5 @@ A C-based Lexical Analyzer that scans a C source file and identifies different l
 - Source Code (.c and .h files)
 - Project Report
 - Output Screenshot
+## status
+- Verification pending
