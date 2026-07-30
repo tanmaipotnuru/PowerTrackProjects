@@ -33,3 +33,6 @@ This project implements Stack Data Structure operations in C++ using arrays and 
 - Source Code (.cpp and .h)
 - Project Report
 - Output Screenshot
+
+## status
+- Verification pending
