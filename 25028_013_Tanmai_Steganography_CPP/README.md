@@ -18,3 +18,6 @@ A C++ application that hides and retrieves secret messages inside BMP images usi
 - Source Code (.cpp and .h)
 - Project Report
 - Output Screenshot
+
+## status
+- Verification pending
